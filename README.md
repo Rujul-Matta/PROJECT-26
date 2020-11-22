@@ -1,6 +1,6 @@
-This recipe is about making pasta.
+__*This recipe is about making pasta.
 
-For Ingredients visit "Ingredients.md"
+__*For Ingredients visit "Ingredients.md"
 
 
-For Recipe visit "Recipe.md"
+__*For Recipe visit "Recipe.md"
